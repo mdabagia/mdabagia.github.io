@@ -18,7 +18,7 @@ I am a first-year PhD student in the [Algorithms, Combinatorics, & Optimization 
 _with Konrad Kording and Eva Dyer_
 
 ### 2019
-[Barycenters in the brain: An optimal transport approach to modeling connectivity](OTML__Learning_shape_primitives_for_whole_brain_projectomes.pdf)
+[Barycenters in the brain: An optimal transport approach to modeling connectivity](https://raw.githubusercontent.com/mdabagia/mdabagia.github.io/master/OTML__Learning_shape_primitives_for_whole_brain_projectomes.pdf)
 
 _with Eva Dyer_
 
