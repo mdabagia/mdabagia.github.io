@@ -8,25 +8,24 @@ I am a first-year PhD student in the [Algorithms, Combinatorics, & Optimization 
 *   What can we prove?
 *   From this theoretical foundation, can we derive efficient and generalizable machine learning systems?
 
+
 ## Papers
+
+### 2020
 
 [Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations](https://dyerlab.gatech.edu/wp-content/uploads/sites/630/2020/05/Dabagia_Comparing2020.pdf)
 
-with Konrad Kording and Eva Dyer
+_with Konrad Kording and Eva Dyer_
 
-September 2020
-
+### 2019
 [Barycenters in the brain: An optimal transport approach to modeling connectivity](OTML__Learning_shape_primitives_for_whole_brain_projectomes.pdf)
 
-with Eva Dyer
-
-December 2019
+_with Eva Dyer_
 
 [Hierarchical optimal transport for multi-modal distribution alignment](http://papers.nips.cc/paper/9501-hierarchical-optimal-transport-for-multimodal-distribution-alignment)
 
-with John Lee, Eva Dyer, & Chris Rozell
+_with John Lee, Eva Dyer, & Chris Rozell_
 
-December 2019
 
 ## Contact Me
 [first][last]@gatech[dot]edu
