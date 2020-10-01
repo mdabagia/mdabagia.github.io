@@ -2,122 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a first-year PhD student in the [Algorithms, Combinatorics, & Optimization (ACO)](https://aco.gatech.edu/) program at Georgia Tech. As our understanding of computation deepens, the remarkable connection between computation and the physical world is emerging. Questions like "Can quantum mechanics be (efficiently) simulated on a classic computer?" are not purely academic, but have far-reaching implications, from the security of RSA encryption to the [simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis). For now, I am fascinated by the study of intelligence, both biological and artificial. My research on this topic focuses on a few questions:
+*   What theoretical models of the brain at the level of neurons can we construct?
+*   Can these models replicate the brain's greatest trick, its ability to learn, and especially to learn to reason abstractly?
+*   What can we prove?
+*   From this theoretical foundation, can we derive efficient and generalizable machine learning systems?
 
-[Link to another page](./another-page.html).
+## Papers
 
-There should be whitespace between paragraphs.
+[Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations](https://dyerlab.gatech.edu/wp-content/uploads/sites/630/2020/05/Dabagia_Comparing2020.pdf)
+with Konrad Kording and Eva Dyer
+September 2020
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Barycenters in the brain: An optimal transport approach to modeling connectivity](OTML__Learning_shape_primitives_for_whole_brain_projectomes.pdf)
+with Eva Dyer
+December 2019
 
-# Header 1
+[Hierarchical optimal transport for multi-modal distribution alignment](http://papers.nips.cc/paper/9501-hierarchical-optimal-transport-for-multimodal-distribution-alignment)
+with John Lee, Eva Dyer, & Chris Rozell
+December 2019
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Contact Me
+[first][last]@gatech[dot]edu
