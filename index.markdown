@@ -11,15 +11,21 @@ I am a first-year PhD student in the [Algorithms, Combinatorics, & Optimization 
 ## Papers
 
 [Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations](https://dyerlab.gatech.edu/wp-content/uploads/sites/630/2020/05/Dabagia_Comparing2020.pdf)
+
 with Konrad Kording and Eva Dyer
+
 September 2020
 
 [Barycenters in the brain: An optimal transport approach to modeling connectivity](OTML__Learning_shape_primitives_for_whole_brain_projectomes.pdf)
+
 with Eva Dyer
+
 December 2019
 
 [Hierarchical optimal transport for multi-modal distribution alignment](http://papers.nips.cc/paper/9501-hierarchical-optimal-transport-for-multimodal-distribution-alignment)
+
 with John Lee, Eva Dyer, & Chris Rozell
+
 December 2019
 
 ## Contact Me
