@@ -20,7 +20,7 @@ I am a first-year PhD student in the [Algorithms, Combinatorics, & Optimization 
 
 [Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations](https://dyerlab.gatech.edu/wp-content/uploads/sites/630/2020/05/Dabagia_Comparing2020.pdf)
 
-_with Konrad Kording and Eva Dyer_
+_with Konrad Kording & Eva Dyer_
 
 ### 2019
 [Barycenters in the brain: An optimal transport approach to modeling connectivity](https://raw.githubusercontent.com/mdabagia/mdabagia.github.io/master/OTML__Learning_shape_primitives_for_whole_brain_projectomes.pdf)
