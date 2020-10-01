@@ -2,6 +2,9 @@
 layout: default
 ---
 
+* * *
+
+
 I am a first-year PhD student in the [Algorithms, Combinatorics, & Optimization (ACO)](https://aco.gatech.edu/) program at Georgia Tech. As our understanding of computation deepens, the remarkable connection between computation and the physical world is emerging. Questions like "Can quantum mechanics be (efficiently) simulated on a classic computer?" are not purely academic, but have far-reaching implications, from the security of RSA encryption to the [simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis). For now, I am fascinated by the study of intelligence, both biological and artificial. My research on this topic focuses on a few questions:
 *   What theoretical models of the brain at the level of neurons can we construct?
 *   Can these models replicate the brain's greatest trick, its ability to learn, and especially to learn to reason abstractly?
@@ -10,6 +13,8 @@ I am a first-year PhD student in the [Algorithms, Combinatorics, & Optimization 
 
 
 ## Papers
+
+* * *
 
 ### 2020
 
@@ -28,4 +33,7 @@ _with John Lee, Eva Dyer, & Chris Rozell_
 
 
 ## Contact Me
+
+* * *
+
 [first][last]@gatech[dot]edu
