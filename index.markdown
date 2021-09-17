@@ -5,7 +5,7 @@ layout: default
 * * *
 
 
-I am a first-year PhD student in the [Algorithms, Combinatorics, & Optimization (ACO)](https://aco.gatech.edu/) program at Georgia Tech. I did my undergrad in Electrical & Computer Engineering, also at Georgia Tech. 
+I am a second-year PhD student in the [Algorithms, Combinatorics, & Optimization (ACO)](https://aco.gatech.edu/) program at Georgia Tech. I did my undergrad in Electrical & Computer Engineering, also at Georgia Tech. 
 
 I am fascinated by the study of intelligence, both biological and artificial. My research on this topic focuses on a few questions:
 *   What theoretical models of the brain at the level of neurons can we construct?
@@ -13,7 +13,7 @@ I am fascinated by the study of intelligence, both biological and artificial. My
 *   What can we prove?
 *   From this theoretical foundation, can we derive efficient and generalizable machine learning systems?
 
-Outside of research I love music, which is doubtlessly thanks to twelve years of training in piano performance and composition at the [Suzuki Music Institute of Dallas](https://www.suzukimusicdallas.org/) where I studied under Dr. Bret Serrin. I also enjoy cooking, reading (science fiction & world history in particular), and the great outdoors.
+Outside of research I love music, which is doubtlessly thanks to many years of training in piano performance and composition at the [Suzuki Music Institute of Dallas](https://www.suzukimusicdallas.org/) where I studied under Dr. Bret Serrin. I also enjoy cooking, reading (science fiction & world history in particular), and the great outdoors.
 
 ## Papers
 
