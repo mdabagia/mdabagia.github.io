@@ -21,6 +21,7 @@ Outside of research I love music, which is doubtlessly thanks to many years of t
 
 ### 2022
 [Assemblies of neurons learn to classify well-separated distributions](https://proceedings.mlr.press/v178/dabagia22a.html)
+
 [Presentation Recording](https://slideslive.com/38985672)
 
 _with Christos Papadimitriou & Santosh Vempala_
