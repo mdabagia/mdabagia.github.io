@@ -5,7 +5,7 @@ layout: default
 * * *
 
 
-I am a second-year PhD student in the [Algorithms, Combinatorics, & Optimization (ACO)](https://aco.gatech.edu/) program at Georgia Tech. I did my undergrad in Electrical & Computer Engineering, also at Georgia Tech. 
+I am a third-year PhD student in the [Algorithms, Combinatorics, & Optimization (ACO)](https://aco.gatech.edu/) program at Georgia Tech. I did my undergrad in Electrical & Computer Engineering, also at Georgia Tech. 
 
 I am fascinated by the study of intelligence, both biological and artificial. My research on this topic focuses on a few questions:
 *   What theoretical models of the brain at the level of neurons can we construct?
@@ -19,16 +19,17 @@ Outside of research I love music, which is doubtlessly thanks to many years of t
 
 * * *
 
+### 2022
+[Assemblies of neurons learn to classify well-separated distributions](https://proceedings.mlr.press/v178/dabagia22a.html)
+[Presentation Recording](https://slideslive.com/38985672)
+
+_with Christos Papadimitriou & Santosh Vempala_
 
 ### 2021
 
 [Drop, Swap, and Generate: A Self-Supervised Approach for Generating Neural Activity](https://proceedings.neurips.cc/paper/2021/file/58182b82110146887c02dbd78719e3d5-Paper.pdf)
 
 _with Ran Liu, Mehdi Azabou, Chi-Heng Lin, Mohammad Gheshlaghi Azar, Keith Hengen, Michal Valko, & Eva Dyer_
-
-[Assemblies of neurons can learn to classify well-separated distributions](https://arxiv.org/pdf/2110.03171.pdf)
-
-_with Christos Papadimitriou & Santosh Vempala_
 
 [Mine your own view: Self-supervised learning through across-sample prediction](https://arxiv.org/pdf/2102.10106.pdf)
 
