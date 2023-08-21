@@ -55,3 +55,5 @@ _with John Lee, Eva Dyer, & Chris Rozell_
 * * *
 
 [first][last]@gatech[dot]edu
+
+![Three-Legged Buddha](https://raw.githubusercontent.com/mdabagia/mdabagia.github.io/master/IMG_20230810_120939.jpg)
