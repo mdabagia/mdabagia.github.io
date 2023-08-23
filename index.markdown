@@ -15,6 +15,8 @@ I am fascinated by the study of intelligence, both biological and artificial. My
 
 Outside of research I love music, which is doubtlessly thanks to many years of training in piano performance and composition at the [Suzuki Music Institute of Dallas](https://www.suzukimusicdallas.org/) where I studied with Dr. Bret Serrin. I also enjoy cooking, reading (science fiction & world history in particular), and the great outdoors.
 
+Finally, I organize the ACO Student Seminar. Contact me if you're interested in giving a talk!
+
 ## Papers
 
 * * *
