@@ -21,6 +21,14 @@ Finally, I organize the ACO Student Seminar. Contact me if you're interested in 
 
 * * *
 
+[Aligning latent representations of neural activity](https://www.nature.com/articles/s41551-022-00962-7)
+
+_with Konrad Kording & Eva Dyer_
+
+[Seeing the forest and the tree: Building representations of both individual and collective dynamics with transformers](https://proceedings.neurips.cc/paper_files/paper/2022/hash/1022661f3f43406065641f16ce25eafa-Abstract-Conference.html)
+
+_with Ran Liu, Mehdi Azabou, Jingyun Xiao, & Eva Dyer_
+
 [Assemblies of neurons learn to classify well-separated distributions](https://proceedings.mlr.press/v178/dabagia22a.html)
 [(Presentation recording)](https://slideslive.com/38985672)
 
@@ -38,10 +46,6 @@ _with Mehdi Azabou, Ran Liu, Keith Hengen, Eva Dyer, et al._
 [Learning with plasticity rules: Generalization and robustness](https://openreview.net/pdf?id=XEyElxd9zji)
 
 _with Rares Cristian, Christos Papadimitriou, & Santosh Vempala_
-
-[Comparing high-dimensional neural recordings by aligning their low-dimensional latent representations](https://dyerlab.gatech.edu/wp-content/uploads/sites/630/2020/05/Dabagia_Comparing2020.pdf)
-
-_with Konrad Kording & Eva Dyer_
 
 [Barycenters in the brain: An optimal transport approach to modeling connectivity](https://raw.githubusercontent.com/mdabagia/mdabagia.github.io/master/OTML__Learning_shape_primitives_for_whole_brain_projectomes.pdf)
 
