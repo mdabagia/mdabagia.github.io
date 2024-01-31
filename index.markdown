@@ -21,7 +21,7 @@ Finally, I organize the ACO Student Seminar. Contact me if you're interested in 
 
 * * *
 
-[Computation with sequences of assemblies in a model of the brain][https://arxiv.org/abs/2306.03812]
+[Computation with sequences of assemblies in a model of the brain](https://arxiv.org/abs/2306.03812)
 
 _with Christos Papadimitriou & Santosh Vempala_
 
