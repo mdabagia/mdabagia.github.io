@@ -21,6 +21,10 @@ Finally, I organize the ACO Student Seminar. Contact me if you're interested in 
 
 * * *
 
+[Computation with sequences of assemblies in a model of the brain][https://arxiv.org/abs/2306.03812]
+
+_with Christos Papadimitriou & Santosh Vempala_
+
 [Aligning latent representations of neural activity](https://www.nature.com/articles/s41551-022-00962-7)
 
 _with Konrad Kording & Eva Dyer_
