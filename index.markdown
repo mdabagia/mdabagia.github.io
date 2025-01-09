@@ -12,6 +12,7 @@ I am fascinated by the study of intelligence, both biological and artificial. My
 *   Can these models replicate the brain's greatest trick (its ability to learn, and especially to learn to reason abstractly)?
 *   What can we prove?
 *   From this theoretical foundation, can we derive efficient and generalizable machine learning systems?
+My PhD work has tried to make progress towards answering these questions within the context of [NEMO](https://mdabagia.github.io/nemo/), a model of the brain.
 
 Outside of research I love music, which is doubtlessly thanks to many years of training in piano performance and composition at the [Suzuki Music Institute of Dallas](https://www.suzukimusicdallas.org/) where I studied with Dr. Bret Serrin. I also enjoy cooking, reading (fiction mostly), and the great outdoors.
 
