@@ -5,18 +5,11 @@ layout: default
 * * *
 
 
-I am a fifth-year PhD student in the [Algorithms, Combinatorics, & Optimization (ACO)](https://aco.gatech.edu/) program at Georgia Tech, working with [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/). I did my undergrad in Electrical & Computer Engineering, also at Georgia Tech. 
+I am an [ARNI](https://arni-institute.org/) postdoctoral fellow at CUNY & Columbia, working with Christos Papadimitriou. Before that, I did my PhD in the [Algorithms, Combinatorics, & Optimization (ACO)](https://aco.gatech.edu/) program at Georgia Tech, advised by [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/). Even earlier, I did my undergrad in Electrical & Computer Engineering, also at Georgia Tech, where I worked with [Eva Dyer](https://nerdslab.github.io/people.html).
 
-I am fascinated by the study of intelligence, both biological and artificial. My research on this topic focuses on a few questions:
-*   What theoretical models of the brain at the level of neurons can we construct?
-*   Can these models replicate the brain's greatest trick (its ability to learn, and especially to learn to reason abstractly)?
-*   What can we prove?
-*   From this theoretical foundation, can we derive efficient and generalizable machine learning systems?
-My PhD work has tried to make progress towards answering these questions within the context of [NEMO](https://mdabagia.github.io/nemo/), a model of the brain.
+I am fascinated by the study of intelligence, both biological and artificial. My research in this direction is in trying to copy from evolution's homework -- to determine the structures and processes which the brain is equipped with, that make it so effective at achieving its goals in the world and such a quick, robust learner, and to use these insights to make better (or at least more brainlike) artificial intelligence. Concretely, I am focused on building theoretical models of how the brain works, constrained by both by bottom-up knowledge from neuroscience and top-down concerns about computational tractability and efficiency from computer science. Ideally, these theoretical models directly translate to AI systems. My PhD work focused on one such model, [NEMO](https://dabagia.org/nemo/).
 
 Outside of research I love music, which is doubtlessly thanks to many years of training in piano performance and composition at the [Suzuki Music Institute of Dallas](https://www.suzukimusicdallas.org/) where I studied with Dr. Bret Serrin. I also enjoy cooking, reading (fiction mostly), and the great outdoors.
-
-Finally, I organize the ACO Student Seminar. Contact me if you're interested in giving a talk!
 
 ## Teaching
 [CS6550/8803: Continuous Algorithms - Optimization and Sampling](https://santoshv.github.io/2023CS6550/contalgos.html) (Teaching Assistant)
