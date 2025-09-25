@@ -12,9 +12,11 @@ I am fascinated by the study of intelligence, both biological and artificial. My
 Outside of research I love music, which is doubtlessly thanks to many years of training in piano performance and composition at the [Suzuki Music Institute of Dallas](https://www.suzukimusicdallas.org/) where I studied with Dr. Bret Serrin. I also enjoy cooking, reading (fiction mostly), and the great outdoors.
 
 ## Teaching
-[CS6550/8803: Continuous Algorithms - Optimization and Sampling](https://santoshv.github.io/2023CS6550/contalgos.html) (Teaching Assistant)
+COMSE 6998: Computation & The Brain (Fall 2025, Co-Instructor)
 
-CS 4540: Advanced Algorithms (Teaching Assistant)
+[CS 6550/8803: Continuous Algorithms - Optimization and Sampling](https://santoshv.github.io/2023CS6550/contalgos.html) (Spring 2023, Teaching Assistant)
+
+CS 4540: Advanced Algorithms (Fall 2022, Teaching Assistant)
 
 ## Papers
 
